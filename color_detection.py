@@ -1,4 +1,4 @@
-# Color Detection with trackbars
+# Color Detection with trackbar
 
 import cv2
 import numpy as np
